@@ -1,0 +1,22 @@
+# Internal working files — not part of the published portfolio
+Adlab.pdf
+CFA_Social_Media_Audit_and_Strategy_Framework.md
+CFA_YouTube_Strategy_2026.docx
+Instagram Content Links.md
+cfa-context.md
+colours.txt
+
+# Claude working files
+.claude/
+
+# Original oversized video files (>100MB, cannot be pushed to GitHub)
+Unposted Content/Fundamentals of Batting - James.mov
+Unposted Content/Harry Tours 2.mov
+Unposted Content/New Pre-Season Gear 2.mov
+
+# Duplicate Low Res files accidentally saved to root folder
+New Pre-Season Gear 2 (Low Res).mov
+New Pre-Season Gear 2 (Low Res).mp4.mov
+
+# macOS
+.DS_Store
